@@ -1,6 +1,6 @@
 # Phylogenetic Analysis Pipeline
 
-This repository contains a **bioinformatics pipeline** for processing sequencing data, performing multiple sequence alignments, and constructing phylogenetic trees. The workflow consists of a **Bash script (`workflow.sh`)** for sequence processing and an accompanying **Python script (`stoc_convert.py`)** for converting alignment formats.
+This repository contains a **bioinformatics pipeline** for processing sequencing data, performing multiple sequence alignments, and constructing phylogenetic trees. The workflow consists of a **Bash script (`phlyo_workflow.sh`)** for sequence processing and an accompanying **Python script (`stoc_convert.py`)** for converting alignment formats.
 
 ## 📌 Features
 - **Download** sequencing reads from NCBI SRA
