@@ -15,7 +15,6 @@ This repository contains a **bioinformatics pipeline** for processing sequencing
 
 ## 🚀 Getting Started
 
-### ** Clone the Repository**
 ```bash
 git clone https://github.com/YOUR_USERNAME/phylo_analysis_pipeline.git
 cd phylo_analysis_pipeline
